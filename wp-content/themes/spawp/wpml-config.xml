@@ -1,0 +1,30 @@
+<wpml-config>
+	<admin-texts>
+	  <key name="current_theme"/>
+	  <key name="spawp_option">
+	  	<key name="topbar_office_time"/>
+	  	<key name="topbar_phone"/>
+	  	<key name="nav_mobilebtn_label"/>
+	  	<key name="secondary_mobilebtn_label"/>
+	  	<key name="archive_readmore_label"/>
+	  	<key name="blog_subtitle"/>
+	  	<key name="blog_title"/>
+	  	<key name="blog_desc"/>
+	  	<key name="service_subtitle"/>
+	  	<key name="service_title"/>
+	  	<key name="service_desc"/>
+	  	<key name="feature_subtitle"/>
+	  	<key name="feature_title"/>
+	  	<key name="feature_desc"/>
+	  	<key name="team_subtitle"/>
+	  	<key name="team_title"/>
+	  	<key name="team_desc"/>
+	  	<key name="testimonial_subtitle"/>
+	  	<key name="testimonial_title"/>
+	  	<key name="testimonial_desc"/>
+	  	<key name="blog_subtitle"/>
+	  	<key name="blog_title"/>
+	  	<key name="blog_desc"/>
+	  </key>	  
+	</admin-texts>
+</wpml-config>

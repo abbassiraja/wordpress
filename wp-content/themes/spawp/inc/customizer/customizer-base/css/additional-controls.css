@@ -1,0 +1,54 @@
+/* spawp plus section */
+#customize-controls .control-section-spawp-upsale .accordion-section-title:hover,
+#customize-controls .control-section-spawp-upsale .accordion-section-title:focus {
+    background-color: #fff;
+}
+.control-section-spawp-upsale .accordion-section-title .button {
+    margin-top:  -4px;
+    font-weight: 400;
+    margin-left: 8px;
+    color: #fff;
+    border-color: #0088cc;
+    background: #08c;
+    -webkit-box-shadow: 0 1px 0 #ccc;
+    box-shadow: 0 1px 0 #ccc;
+    
+}
+.rtl .control-section-spawp-upsale .accordion-section-title .button {
+    margin-left:  0;
+    margin-right: 8px;
+}
+
+.upgrade_premium_buttons_info ul { margin: 0; padding: 0; }
+.upgrade_premium_buttons_info ul li { margin-bottom: 15px; }
+.upgrade_premium_buttons_info ul li a{
+    font-family: 'Open Sans', sans-serif;
+    padding: 8px 12px;
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 4px;
+    font-size: 14px;
+    letter-spacing: 1.2px;
+    overflow: hidden;
+    -webkit-transition: .3s;
+    transition: .3s;
+    background: -webkit-linear-gradient(150deg, #f78fa6 0%, #de6d86 100%);
+    background: linear-gradient(150deg, #f78fa6 0%, #de6d86 100%);
+    z-index: 2;
+}
+.upgrade_premium_buttons_info ul li a:hover, 
+.upgrade_premium_buttons_info ul li a:focus{ transform: translateY(-5px); color: #fff; box-shadow: 0 0.5rem 1.875rem rgba(0, 0, 0, 0.2); }
+.upgrade_premium_buttons_info ul li a i{  font-size: 14px; margin-top: 1px; margin-right: 4px;}
+
+li#accordion-section-upgrade_with_pro_section .accordion-section-title:after {
+    content: "\f174" !important;
+    color: #ffffff !important;
+}
+li#accordion-section-upgrade_with_pro_section .accordion-section-title,
+li#accordion-section-upgrade_with_pro_section .accordion-section-title:hover {
+    color: #ffffff !important;
+    background: -webkit-linear-gradient(150deg, #f799ae 0%, #f3adbc 100%) !important;
+    background: linear-gradient(150deg, #f799ae 0%, #f3adbc 100%) !important;   
+    border-left: none;
+}

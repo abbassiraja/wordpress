@@ -1,0 +1,179 @@
+.notice.notice-info {
+    display: none !important;
+    opacity: 0;
+    visibility: hidden;
+}
+
+/*--------------------------------------------------------------
+# Meta
+--------------------------------------------------------------*/
+#royal-magazine-theme-settings .inside {
+    margin: 0 auto;
+    padding: 0;
+}
+
+#royal-magazine-theme-settings .handlediv {
+    position: relative;
+    z-index: 1;
+}
+
+#royal-magazine-theme-settings h2.hndle {
+    background-color: #f3f5f6;
+    border-width: 1px 1px 0 1px;
+    border-style: solid;
+    border-color: #e2e4e7;
+}
+
+#royal-magazine-theme-settings .royal-magazine-meta-panels .royal-magazine-opt-wrap{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+}
+
+.royal-magazine-tab-main {
+    background-color: #fbfbfb;
+    position: relative;
+}
+
+.royal-magazine-tab-main .royal-magazine-metabox-tab {
+    display: block;
+    position: relative;
+    z-index: 10;
+    float: left;
+    width: 225px;
+}
+
+.royal-magazine-metabox-tab ul {
+    clear: left;
+    margin: 0;
+    list-style-type: none;
+}
+
+.royal-magazine-metabox-tab ul li {
+    margin-bottom: 0;
+}
+
+.royal-magazine-metabox-tab ul li a {
+    font-size: 13px;
+    position: relative;
+    display: block;
+    font-weight: 600;
+    padding: 15px;
+    text-decoration: none;
+    color: #333;
+    border-bottom: 1px solid rgba(136, 134, 134, 0.12);
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -webkit-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.royal-magazine-metabox-tab ul li a:hover,
+.royal-magazine-metabox-tab ul li a:focus {
+    outline: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+}
+
+.royal-magazine-metabox-tab ul li a:hover,
+.royal-magazine-metabox-tab ul li a:focus {
+    color: #fff;
+    background: #3473e4;
+}
+
+.royal-magazine-metabox-tab ul li a.twp-tab-active {
+    color: #fff;
+    background: #3062ff;
+}
+
+.royal-magazine-metabox-tab ul li a.twp-tab-active:after {
+    content: "";
+    position: absolute;
+    right: -1px;
+    top: 50%;
+    height: 0;
+    width: 0;
+    pointer-events: none;
+    border: solid transparent;
+    border-right-color: #fff;
+    border-width: 10px;
+    margin-top: -10px;
+}
+
+.royal-magazine-tab-main .royal-magazine-tab-content {
+    background-color: #fff;
+    position: relative;
+    margin-left: 225px;
+    border-left: 1px solid #ededed;
+    border-right: 1px solid #ededed;
+}
+
+.royal-magazine-tab-content .twp-content-wrap {
+    display: none;
+}
+
+.royal-magazine-tab-content .twp-content-wrap.royal-magazine-tab-content-active {
+    display: block;
+}
+
+.royal-magazine-tab-content .twp-meta-title {
+    border-bottom: 1px solid #e8e8e8;
+    font-weight: 300;
+    padding: 20px;
+    margin: 0 auto;
+    font-size: 32px;
+}
+
+.royal-magazine-meta-panels .royal-magazine-opt-wrap {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.royal-magazine-meta-panels .royal-magazine-opt-wrap:hover,
+.royal-magazine-meta-panels .royal-magazine-opt-wrap:focus {
+    background-color: #f9f9f9;
+}
+
+.royal-magazine-opt-wrap {
+    display: table;
+    width: 100%;
+    height: 100%;
+    padding: 10px 0;
+    margin: 10px auto;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.royal-magazine-opt-wrap-alt label {
+    width: 220px;
+}
+
+.royal-magazine-opt-wrap-alt label,
+.royal-magazine-opt-wrap textarea,
+.royal-magazine-opt-wrap select,
+.royal-magazine-opt-wrap input[type="text"] {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.royal-magazine-opt-wrap textarea,
+.royal-magazine-opt-wrap select,
+.royal-magazine-opt-wrap input[type="text"] {
+    border-color: #E2E6EC;
+    width: 400px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.royal-magazine-opt-wrap input[type="text"],
+.royal-magazine-opt-wrap select {
+    height: 45px;
+    line-height: 45px;
+}
+
+.royal-magazine-opt-wrap textarea {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

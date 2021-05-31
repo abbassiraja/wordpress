@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spawp\n"
+"POT-Creation-Date: 2021-03-05 14:37+0530\n"
+"PO-Revision-Date: 2021-03-05 14:37+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__(;_e;esc_html__(;esc_html_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\spawp-pro\\wp-content\\themes\\spawp\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\spawp-pro\\wp-content\\themes"
+"\\spawp\n"
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/404.php:7
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/404.php:8
+msgid "oh no! page not found"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/404.php:9
+msgid ""
+"The page you are looking for isn`t available, Try your search again or use "
+"the Go Home button below"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/404.php:10
+msgid "Go Home"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/searchform.php:8
+msgid "Search for:"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:117
+msgid "Sidebar Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:120
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:136
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:153
+msgid "Default"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:121
+msgid "Right Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:122
+msgid "Left Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:123
+msgid "No Sidebars"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:124
+msgid "Both Sidebars"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:125
+msgid "Both Sidebars on Left"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:126
+msgid "Both Sidebars on Right"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:133
+msgid "Footer Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:137
+msgid "0 Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:138
+msgid "1 Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:139
+msgid "2 Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:140
+msgid "3 Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:141
+msgid "4 Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:146
+msgid "Content Container"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:149
+msgid "Choose your content container type."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:154
+msgid "Full Width"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:155
+msgid "Contained"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:159
+msgid "Disable Elements"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:164
+msgid "Content Title"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/meta.php:169
+msgid "Get Premium"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:167
+msgid ""
+"Spawp is a creative, clean, easy to use and modren multipurpose wordpress "
+"theme. This theme is perfect for any kind of bussiness like Spa, beauty "
+"salon, wellness center, natural health care beauty business, massage parlor, "
+"yoga studio, meditation classes, personal, corporate, agency, photography, "
+"wedding, portfolio, blogs, magazines and many others businesses. "
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:170
+msgid "Britetechs"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:176
+msgid "Spawp"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:178
+msgid "Recommended Actions"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:181
+msgid "One Click Demo Import"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:190
+msgid "Customize Options Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:193
+msgid "Customize Your Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:197
+msgid "Documentation"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:200
+msgid "Spawp Theme Documentation"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:205
+msgid "Need Support?"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:243
+msgid "Recommend Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:260
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:262
+msgid ""
+"In order to have the one page look for your website, please go to Customize -"
+"&gt; Static Front Page and switch \"Front page displays\" to \"A static page"
+"\"."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:265
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:289
+msgid "Setup front page displays"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:279
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:282
+msgid ""
+"In order to change homepage section contents, you will need to set template "
+"\"Frontpage\" for your homepage."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:296
+msgid "Change homepage page template"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/about-screen/welcome-screen.php:308
+msgid "Hey! There are no required actions found."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/additional-customizer-controls.php:56
+msgid "Get Support"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/additional-customizer-controls.php:59
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/additional-customizer-controls.php:62
+msgid "Love it"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:527
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:717
+msgid "Delete field"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:788
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:842
+msgid "Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:823
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:843
+msgid "Image"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:839
+msgid "Image type"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:844
+msgid "None"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:858
+msgid "Social icons"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:882
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:904
+msgid "Remove Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:887
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:911
+msgid "Add Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:917
+msgid "Content Align"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:919
+msgid "Left"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:920
+msgid "Center"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/inc/customizer/customizer-repeater/class/class-customizer-repeater.php:921
+msgid "Right"
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/partials/none.php:5
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/partials/none.php:7
+msgid "There aren't any posts currently published in this category."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/partials/none.php:9
+msgid "There aren't any posts currently published under this taxonomy."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/partials/none.php:11
+msgid "There aren't any posts currently published under this tag."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/partials/none.php:13
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: C:\xampp\htdocs\spawp-pro\wp-content\themes\spawp/partials/entry/author-bio.php:21
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr ""
